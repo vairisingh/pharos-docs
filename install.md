@@ -5,7 +5,7 @@ The easiest way to install Pharos Cluster executables is to use [chpharos](https
 
 **1. Install chpharos**
 ```
-curl -s https://get.pharos.sh | sudo bash
+curl -s https://get.pharos.sh | bash
 ```
 
 or via MacOS Homebrew
